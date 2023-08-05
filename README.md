@@ -1,6 +1,6 @@
 # flutter_exercise_1_login_page
 
-A new Flutter project.
+Sample Login Page 1.
 
 ## Getting Started
 
